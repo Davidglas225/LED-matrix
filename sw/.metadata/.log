@@ -1,0 +1,26 @@
+!SESSION 2026-07-03 11:17:31.731 -----------------------------------------------
+eclipse.buildId=Version 2.0.0
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=hu_HU
+Framework arguments:  C:\Users\david\Projektek,Repok\LED mátrix\sw\LEDmatrix1.0\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\david\Projektek,Repok\LED mátrix\sw\LEDmatrix1.0\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-07-03 11:17:47.007
+!MESSAGE Log4j2 initialized with config file C:\Users\david\Projektek,Repok\LED mátrix\sw\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-07-03 11:17:54.896
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-07-03 11:18:00.644
+!MESSAGE Indexed 'LEDmatrix1.0' (19 sources, 130 headers) in 3,52 sec: 8 698 declarations; 31 609 references; 6 unresolved inclusions; 58 syntax errors; 852 unresolved names (2,1%)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-07-03 11:18:02.229
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-07-03 11:18:02.232
+!MESSAGE port: 
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-07-03 15:44:30.796
+!MESSAGE Indexed 'LEDmatrix1.0' (18 sources, 106 headers) in 2,61 sec: 7 526 declarations; 29 876 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0,5%)

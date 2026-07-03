@@ -1,0 +1,10 @@
+16:26:41 **** Incremental Build of configuration Debug for project LEDmatrix1.0 ****
+make -j8 all 
+arm-none-eabi-size  LEDmatrix1.0.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7272	     12	   1660	   8944	   22f0	LEDmatrix1.0.elf
+Finished building: default.size.stdout
+ 
+
+16:26:42 Build Finished. 0 errors, 0 warnings. (took 310ms)
+
